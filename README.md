@@ -1,2 +1,2 @@
 # Jogos
-Jogo da Forca e Adivinahção
+Jogo da Forca e Adivinhação
